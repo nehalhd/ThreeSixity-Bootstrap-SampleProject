@@ -1,0 +1,133 @@
+/* first page */
+.bodyOne {
+        margin: 0;
+        background: linear-gradient(-45deg, rgb(26, 24, 24), #1e3163, #2d46b9, #f037a5);
+        background-size: 400% 400%;
+        animation: gradient 5s ease infinite;
+        width: 100vw;
+}
+@keyframes gradient {
+    0% {
+    background-position: 0% 50%;
+    }
+    50% {
+    background-position: 100% 50%;
+    }
+    100% {
+    background-position: 0% 50%;
+    }
+}
+.buttp {
+    padding:2.5% 0%;
+}
+
+
+/* second page  */
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* body 2 */
+.bgnone{
+    background:none;
+    width: 100vw;
+    margin: 0%;
+}
+
+/* 1 */
+.bgone{
+    background-color: #F0ECE3;
+    width: 100vw;
+}
+.nav-item a{
+    color:#A32F80;
+}
+.nav-link:hover {
+    color:black;
+}
+
+
+
+/* 2 */
+.bgtwo {
+    width: 100vw;
+    background-color: #F0ECE3;
+    height: 100vh;
+    padding-top: 5%;
+}
+.text {
+    color:#A32F80;
+    padding:2% 0%;
+}
+
+/* 3 */
+.bgthree {
+    height:80%;
+    width: 100vw;
+    padding: 1% 0%;
+}
+.bgthree .img {
+    height:100%;
+    width: 100vw;
+}
+
+/* 4 */
+.bgfour {
+    background-color: #F0ECE3;
+    height: 100%;
+    width: 100vw;
+    /* margin:0% 0%; */
+}
+.bgfour .box {
+    padding: 10% 0% 10% 0%;
+}
+.bgfour .boxx {
+    padding:5% 0% 5% 15%;
+}
+
+/* 5 */
+.bgfive {
+    background-color: white;
+    width: 100vw;
+    height: 90%;
+    margin:1% 0%;
+}
+
+/* 8 */
+.bgeight {
+        background-color: white;
+        height: 70%;
+        width:100vw;
+}
+.bgeight .rww {
+    padding: 5% 0%;
+}
+.bgeight .abouta {
+    color:black;
+}
+.abouta:hover,
+.bgeight h4{
+    color:#A32F80;
+}
+
+/* 7 */
+.bgseven {
+    background-color: #F0ECE3;
+    width:100vw;
+    height: 60%;
+    padding:5% 20%;
+}
+.bgseven .butt {
+    margin:2% ;
+}
+
+/* 9 */
+.bgnine {
+    width: 100vw;
+    background-color: black;
+}
+
+
+
